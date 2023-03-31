@@ -27,6 +27,10 @@ h6.banner {
 .info {
     width: 70%;
     margin: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: white;
+    text-align: left;
 }
 
 .infoHeader {
@@ -43,6 +47,7 @@ h6.banner {
 }
 
 ul, ol {
+    
     font-size: 20px;
     color: white;
 }
