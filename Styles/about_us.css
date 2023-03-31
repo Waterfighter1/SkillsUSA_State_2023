@@ -1,4 +1,13 @@
+#aboutUs {
+    width: 60%;
+    margin: auto;
+}
+
 #MissionStatement {
-    text-align: center;
     font-size: 32px;
+}
+
+#MissionText {
+    text-align: left;
+    font-size: 22px;
 }

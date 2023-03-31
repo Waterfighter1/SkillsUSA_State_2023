@@ -1,0 +1,31 @@
+section {
+    width: 100%;
+    display: flex;
+    margin: 20px;
+    border: 1px solid black;
+}
+
+.AdoptionProfile1 {
+    background-color: #759FBC;
+}
+
+.AdoptionProfile2 {
+    background-color: #1F5673;
+}
+
+.Images {
+    text-align: center;
+    flex: 50%;
+}
+
+.dogImg {
+    width: 50%;
+    margin: 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.DogInfo {
+    flex: 50%;
+    margin: 30px;
+}
