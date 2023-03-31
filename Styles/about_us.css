@@ -76,3 +76,11 @@ ul {
     color:rgb(183, 183, 183);
     font-weight:bold;
 }
+
+.mainHeader {
+    text-align: center;
+    padding-top: 185px;
+    font-size:75px;
+    text-shadow: 4px 4px 10px #000000;
+    color:white;
+}
