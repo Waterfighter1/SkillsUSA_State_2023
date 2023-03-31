@@ -28,6 +28,21 @@ section {
 .DogInfo {
     width: 50%;
     margin: 30px;
+    text-align: center;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.DogName {
+    font-size: 28px;
+}
+
+.DogSubtitle {
+    font-size: 22px;
+}
+
+.DogText {
+
 }
 
 .dogInfo {
