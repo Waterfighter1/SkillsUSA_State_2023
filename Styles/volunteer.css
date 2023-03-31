@@ -23,3 +23,13 @@ h6.banner {
     text-shadow: 4px 4px 10px #000000;
     color:white;
 }
+
+.info {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    width: 100%;
+    min-height: 200px;
+    color: white;
+    text-align: left;
+}
+
